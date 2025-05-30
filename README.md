@@ -42,10 +42,6 @@ This project demonstrates:
 
 [Your Name] – connect with me on [LinkedIn]## 🧠 Developed By
 
-[Your Name] – connect with me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/vedant-pardeshi-642937321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) or check out my other projects on [GitHub](https://github.com/Vedant-Git-dev)
-
---- or check out my other projects on [GitHub](https://github.com/Vedant-Git-dev)
-
----]) or check out my other projects on [GitHub](https://github.com/Vedant-Git-dev)
+[Your Name] – connect with me on [LinkedIn]([https://www.linkedin.com/Vedant-Pardeshi]) or check out my other projects on [GitHub](https://github.com/Vedant-Git-dev)
 
 ---
