@@ -10,8 +10,7 @@ A fun and interactive Rock Paper Scissors game built using Python and Tkinter! P
 - Buttons for Rock, Paper, and Scissors  
 - Computer's move is generated randomly  
 - Instant result display: You Win / You Lose / Draw  
-- Scoreboard: tracks your score vs the computer  
-- Reset and Exit options  
+- Scoreboard: tracks your score vs the computer   
 - Responsive layout with clean UI design
 
 ---
